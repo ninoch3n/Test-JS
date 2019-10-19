@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.box {
+	margin: 10px;
+	padding: 10px;
+	display: inline-block;
+	color: black;
+	border: black solid 1px;
+}
+
+.box:hover{
+	cursor: pointer;
+}
+
+.resultpara{
+	display: table;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+#submitbutton{
+	margin: 10px;
+	padding: 10px;
+	display: inline-block;
+	border: black solid 1px;
+}
+
+#submitbutton:hover{
+	cursor: pointer;
+}
